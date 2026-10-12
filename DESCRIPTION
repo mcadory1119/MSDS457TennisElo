@@ -1,0 +1,20 @@
+Package: MSDS457TennisElo
+Type: Package
+Title: Surface-Adjusted Elo Ratings for Professional Tennis
+Version: 0.1.0
+Authors@R: 
+    person("Ryenn", "McAdory", email = "mcadory1119@gmail.com",
+           role = c("aut", "cre"))
+Description: Provides vectorized helpers for the Elo rating system
+    applied to professional tennis. Calculates the
+    expected win probability between two players and updates both
+    players' ratings after a match.
+URL: https://github.com/mcadory1119/MSDS457TennisElo
+BugReports: https://github.com/mcadory1119/MSDS457TennisElo/issues
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.0

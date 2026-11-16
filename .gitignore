@@ -40,10 +40,14 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
 
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+MSDS457TennisElo.Rcheck/
+MSDS457TennisElo*.tgz
+MSDS457TennisElo.Rcheck/
+MSDS457TennisElo.Rcheck/
+MSDS457TennisElo.Rcheck/

@@ -9,7 +9,8 @@ Description: Provides vectorized helpers for the Elo rating system
     applied to professional tennis. Calculates the
     expected win probability between two players and updates both
     players' ratings after a match.
-URL: https://github.com/mcadory1119/MSDS457TennisElo
+URL: https://mcadory1119.github.io/MSDS457TennisElo/,
+    https://github.com/mcadory1119/MSDS457TennisElo
 BugReports: https://github.com/mcadory1119/MSDS457TennisElo/issues
 License: MIT + file LICENSE
 Encoding: UTF-8

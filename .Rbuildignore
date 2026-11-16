@@ -5,3 +5,9 @@
 ^\.github$
 ^.*\.docx$
 ^.*\.pdf$
+^MSDS457TennisElo\.Rcheck$
+^MSDS457TennisElo.*\.tar\.gz$
+^MSDS457TennisElo.*\.tgz$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

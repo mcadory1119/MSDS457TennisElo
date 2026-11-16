@@ -1,0 +1,8 @@
+url: https://mcadory1119.github.io/MSDS457TennisElo/
+template:
+  bootstrap: 5
+reference:
+- title: Elo rating functions
+  contents:
+  - elo_expected
+  - elo_update
